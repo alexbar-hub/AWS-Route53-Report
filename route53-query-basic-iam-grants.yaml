@@ -5,7 +5,7 @@ Parameters:
   
   IAMLambdaRoleRoute53Quey:
     Type: String
-    Default: <Your bucket name>
+    Default: <Your role name>
   
   IAMLambdaPolicyRoute53Quey:
     Type: String
